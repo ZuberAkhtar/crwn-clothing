@@ -22,7 +22,7 @@ export const FormInputContainer = styled.input`
   background: none;
   background-color: white;
   color: ${subColor};
-  font-size: 18px;
+  font-size: 14px;
   padding: 10px 10px 10px 5px;
   display: block;
   width: 100%;
